@@ -1,0 +1,3 @@
+# file to ignore some file when uploade in github
+node_modules
+.env
